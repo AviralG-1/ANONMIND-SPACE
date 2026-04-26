@@ -1,0 +1,1 @@
+mongodb://safespace_user:0U2tr2Qg4AJRWZ4a@ac-ytgrrze-shard-00-00.8mnknhn.mongodb.net:27017,ac-ytgrrze-shard-00-01.8mnknhn.mongodb.net:27017,ac-ytgrrze-shard-00-02.8mnknhn.mongodb.net:27017/safespace?replicaSet=atlas-8mnknh-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority
