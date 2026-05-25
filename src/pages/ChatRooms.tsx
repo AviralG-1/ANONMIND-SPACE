@@ -38,7 +38,7 @@ type Tab = {
 
 // ─── Constants ─────────────────────────────────────────────────────────────────
 
-const CHAT_SERVER_URL = "http://localhost:5000";
+const CHAT_SERVER_URL = "https://anonmind-space-backend.onrender.com";
 
 const GENDER_OPTIONS = [
   { value: "male", label: "Male" },
